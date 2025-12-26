@@ -354,9 +354,3 @@ The high accuracy, robust cross-validation results, and strong generalization to
 [4] Coursera Practical Machine Learning Course. Johns Hopkins University Data Science Specialization.
 
 ---
-
-**Document Information:**
-- Total word count: ~1,800 words
-- Figures: 2 (feature importance plot + confusion matrix visualization)
-- Code chunks: Fully reproducible R code
-- Generated: December 2025
